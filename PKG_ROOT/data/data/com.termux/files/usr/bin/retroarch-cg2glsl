@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin/sh
+export LD_LIBRARY_PATH="$PREFIX/lib/retroarch:$LD_LIBRARY_PATH"
+exec "$PREFIX/games/retroarch/retroarch-cg2glsl" "$@"

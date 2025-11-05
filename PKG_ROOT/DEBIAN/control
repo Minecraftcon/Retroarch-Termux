@@ -1,0 +1,7 @@
+Package: retroarch-emu
+Version: 1.0-unstable
+Architecture: arm
+Maintainer: shado <sflash613@gmail.com> or <shubhambarman1221@gmail.com>
+Description: RetroArch Termux build packaged by shado
+Priority: optional
+Depends: sdl2, ffmpeg, pulseaudio, libjpeg-turbo, libpng, libass, fribidi, x11-repo
